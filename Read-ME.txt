@@ -1,0 +1,21 @@
+### This program is created to show a simpler version of website###
+
+
+###STEP 1
+Make sure you put all the files in a single folder
+media.py
+entertainment_center.py
+fresh_tomatoes.py
+fresh_tomatoes.html.
+
+
+###STEP 2
+Install a python editor or use command line (Ex: C:\Python26\python.exe entertainment_center.py ) to run the python script entertainment_center.py
+
+###STEP 3
+You should see the file fresh_tomatoes.html in a webbrowser
+
+
+
+
+
